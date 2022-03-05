@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="General">
+
+        <ListPreference
+            android:key="general_settings_key"
+            android:title="App Language"
+            android:icon="@drawable/ic_baseline_language_24"
+            android:iconSpaceReserved="true"/>
+
+        <SwitchPreferenceCompat
+            android:defaultValue="true"
+            android:key="switch_settings_key"
+            android:title="Dark Mode"
+            android:icon="@drawable/ic_baseline_dark_mode_24"
+            android:iconSpaceReserved="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Profile">
+
+        <Preference
+            android:key="about_settings_key"
+            android:title="Edit Profile"
+            android:icon="@drawable/ic_baseline_edit_24"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

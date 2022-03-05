@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">E-Traders</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="settings_title">App Settings</string>
+    <string name="catalog">My Catalogs</string>
+    <string name="orders">My Orders</string>
+    <string name="add">Add Catalog</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="action_log_in">Log In</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="new_user">New User?</string>
+    <string name="register_now">Register Now</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="fullName">Full Name</string>
+    <string name="eMail">E-Mail Address</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="confPassword">Confirm Password</string>
+    <string name="logOut">Log Out</string>
+    <string name="edit">Edit</string>
+    <string name="update">Update</string>
+    <string name="full_name">Full Name :</string>
+    <string name="e_mail_address">E-Mail Address :</string>
+    <string name="mobile_number">Mobile Number :</string>
+    <string name="gender">Gender :</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+</resources>
